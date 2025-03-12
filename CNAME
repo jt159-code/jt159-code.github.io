@@ -1,4 +1,1 @@
-echo "jt11111.xin" > CNAME
-git add CNAME
-git commit -m "Add CNAME file"
-git push origin main
+jt111111.xin
